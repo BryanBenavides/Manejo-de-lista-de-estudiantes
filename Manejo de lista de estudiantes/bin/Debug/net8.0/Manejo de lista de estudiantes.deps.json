@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Manejo de lista de estudiantes/1.0.0": {
+        "runtime": {
+          "Manejo de lista de estudiantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manejo de lista de estudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\bin\Debug\net8.0\Manejo de lista de estudiantes.exe
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\bin\Debug\net8.0\Manejo de lista de estudiantes.deps.json
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\bin\Debug\net8.0\Manejo de lista de estudiantes.runtimeconfig.json
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\bin\Debug\net8.0\Manejo de lista de estudiantes.dll
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\bin\Debug\net8.0\Manejo de lista de estudiantes.pdb
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.AssemblyInfoInputs.cache
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.AssemblyInfo.cs
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.dll
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\refint\Manejo de lista de estudiantes.dll
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.pdb
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\Manejo de lista de estudiantes.genruntimeconfig.cache
+C:\Users\bryan\source\C# guide\Manejo de lista de estudiantes\obj\Debug\net8.0\ref\Manejo de lista de estudiantes.dll
